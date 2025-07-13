@@ -1,0 +1,14 @@
+{
+    "BATCH_SIZE" : 32,
+    "CONTEXT_LENGTH" : 32,
+    "BEST_MODEL_PATH" : "created-models\\music_transformer_4.8million_16epochs.pth",
+    "DATASET_DIRECTORY" : "maestro-v3.0.0-midi",
+    "hparams" :
+    {
+        "d_model" : 256,
+        "n_heads" : 8,
+        "n_layers" : 6,
+        "d_ff" : 1024,
+        "dropout" : 0.1
+    }
+}

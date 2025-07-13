@@ -1,0 +1,5 @@
+Maestro
+residuals
+maestro-v3.0.0-midi/*
+src/cache_impForGeneration/*
+src/__pycache__
